@@ -1,50 +1,50 @@
-\# Employee Record Management System
+# Employee Record Management System
 
+## 📌 Overview
+A menu-driven Employee Record Management System developed using Python and MySQL. The project allows users to manage employee records through CRUD operations.
 
+## 🚀 Features
+- Add Employee
+- View Employees
+- Search Employee by ID
+- Update Employee Salary
+- Delete Employee
+- Menu-driven interface
 
-\## Overview
+## 🛠 Technologies Used
+- Python
+- MySQL
+- MySQL Connector
 
-A menu-driven Employee Record Management System developed using Python and MySQL.
+## 📂 Database Operations
+- INSERT
+- SELECT
+- UPDATE
+- DELETE
 
+## ⚙️ Setup Instructions
 
+1. Install MySQL Server
+2. Create the database using `database.sql`
+3. Install MySQL Connector:
 
-\## Features
+```bash
+pip install mysql-connector-python
+```
 
-\- Add Employee
+4. Update database credentials in `main.py`
+5. Run:
 
-\- View Employees
+```bash
+python main.py
+```
 
-\- Search Employee
+## 📖 Concepts Used
+- CRUD Operations
+- Relational Databases
+- SQL Queries
+- Database Connectivity
+- Python Loops and Conditions
 
-\- Update Salary
-
-\- Delete Employee
-
-
-
-\## Technologies Used
-
-\- Python
-
-\- MySQL
-
-\- MySQL Connector
-
-
-
-\## Database Operations
-
-\- INSERT
-
-\- SELECT
-
-\- UPDATE
-
-\- DELETE
-
-
-
-\## Author
-
+## 👩‍💻 Author
 Sai Yesaswini
-
